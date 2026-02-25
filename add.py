@@ -2,3 +2,4 @@ a = 10
 b = 20
 print("Addition is:", a+b)
 printf("Tushar Kokare")
+printf("Tushar Kokare")
